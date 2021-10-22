@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yvenone
 - 👀 I’m interested in Web Security and Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Bug Bounty Program
 - 📫 How to reach me IG : @tokeichun.sh
 
 <!---
