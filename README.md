@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yvenone
-- 👀 I’m interested in Web Security and Coding
+- 👀 I’m interested in Web Security
 - 🌱 I’m currently learning Python
-- 📫 How to reach me IG : @tokeichun.sh
 
 <!---
 yvenone/yvenone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
